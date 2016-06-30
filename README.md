@@ -1,3 +1,5 @@
+This repository is moved <https://github.com/pgpool/pgpool-II-buildfarm> and will never be maintained.
+
 # pgpool-II buildfarm
 
 buildfarm script for pgpool-II
